@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Konnichiwa it241!</h1>
+      <h1>Moshi moshi it241!</h1>
     </div>
   );
 }
